@@ -1,0 +1,71 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMf5rbVXih1BC4j8Y0athNF",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/vebronia/MEMBUAT-APLIKASI-TOP-UP/blob/main/check_point.ADVipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# New Section"
+      ],
+      "metadata": {
+        "id": "LnyZFIjl1jq_"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Business Understanding**\n",
+        "\n",
+        "**Business objective**\n",
+        "\n",
+        "Tujuan utama analisis untuk membantu pengambilan keputusan dalam industri kuliner makanan dan minuman di Jakarta, dengan tujuan mengidentifikasi trend dan pola dalam kinerja bisnis makanan dan minuman di Jakarta pada tahun 2014. Membantu pengusaha baru dalam memilih lokasi dan jenis usaha yang menguntungkan. Memberikan wawasan pasar tentang faktor-faktor yang mempengaruhi keberhasilan bisnis kuliner (misalnya, lokasi usaha, nama usaha, kapasitas makanan). Mengevaluasi keberhasilan bisnis kuliner berdasarkan parameter yang tersedia dalam data misalnya, penjualan.\n",
+        "\n",
+        "**assess situation**\n",
+        "\n",
+        "Analisis Pasar : Menganalisis tren dalam industri kuliner Jakarta, memahami pola kesukaan makanan dan minuman di tahun 2014.\n",
+        "Perencanaan Bisnis : Bagi pengusaha kuliner atau calon wirausahawan, data ini bisa digunakan untuk merencanakan strategi lokasi dan jenis usaha kuliner yang berpotensi menguntungkan.\n",
+        "Analisis Persaingan : Mengidentifikasi pesaing utama di sektor makanan dan minuman di Jakarta serta memahami faktor-faktor yang mempengaruhi keberhasilan atau kegagalan suatu bisnis kuliner.\n",
+        "\n",
+        "**Data mining goals**\n",
+        "\n",
+        "Analisis trend konsumen\n",
+        "Tujuan: Mengidentifikasi trend dan kesukaan konsumen dalam memilih jenis makanan dan minuman di Jakarta pada tahun 2014, mengetahui jenis makanan atau minuman yang paling banyak dipilih oleh konsumen. Mengidentifikasi pola perubahan selera dari waktu ke waktu atau berdasarkan lokasi.\n",
+        "\n",
+        "Prediksi Kinerja Bisnis\n",
+        "Tujuan: Memprediksi keberhasilan atau kegagalan bisnis kuliner berdasarkan faktor-faktor seperti lokasi, rating, jenis makanan, dan pendapatan. menganalisis faktor-faktor yang berpengaruh terhadap rating atau ulasan pelanggan.\n",
+        "\n",
+        "**Project plan**\n",
+        "\n",
+        "Mengidentifikasi tren pasar kuliner di Jakarta tahun 2014.\n",
+        "Menganalisis faktor-faktor yang mempengaruhi keberhasilan bisnis kuliner di Jakarta, Membuat model prediksi untuk keberhasilan bisnis kuliner berdasarkan data yang ada.\n"
+      ],
+      "metadata": {
+        "id": "4vaApAJg1oQj"
+      }
+    }
+  ]
+}
